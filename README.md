@@ -59,3 +59,8 @@ Ensure:
 All dependencies are installed
 Environment variables are set
 App is run with a production-ready server (e.g., Gunicorn)
+
+## 🌍 Live Demo
+The frontend is deployed and accessible at:  
+👉 [http://socialmediacontentanalyzer.netlify.app](http://socialmediacontentanalyzer.netlify.app)
+
